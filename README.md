@@ -1,2 +1,0 @@
-# Bijou-SOP
-SOP agent 
